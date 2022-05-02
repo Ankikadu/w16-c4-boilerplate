@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+ nav{
+   display: flex;
+  width: 900px;
+  margin: auto;
+  color: white;
+  
+
+  
+ }
+ h2{
+  margin-left: 50px;
+ 
+  
+ }
